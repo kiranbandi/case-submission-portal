@@ -10,7 +10,7 @@ There is no DB where records are stored ,instead data is simply kept in a json f
 * `npm run start`
 
 ####The first command install the node dependencies while the second one starts the express server
-####The application should be live [here] (localhost:8080)
+####The application should be live [here](localhost:8080)
 
 
 
