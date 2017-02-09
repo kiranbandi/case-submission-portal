@@ -1,0 +1,42 @@
+#myTable  th{
+color:darkcyan;	
+text-align: center;
+font-size: 20px;
+}
+#myTable  tr{	
+text-align: center;
+}
+.alert {
+    margin-top: 5%;
+    display: none;
+}
+.jumbotron {
+    margin-top: 5%;
+    color:darksalmon;
+}
+.jumbotron h2 {
+    text-align: center;
+}
+.text-center button {
+    margin-left: 5%;
+}
+
+.modal-footer .modal-title {
+    text-align: left;
+}
+
+.close,
+.close:hover {
+    opacity: 0.5;
+}
+
+#myTable {
+    margin-top: 5%;
+}
+
+#emptyAlert {
+	text-align: left;
+}
+.mce-widget.mce-notification.mce-notification-warning {
+    display: none;
+}

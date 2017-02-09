@@ -1,0 +1,26 @@
+{
+  "name": "case-submission-portal",
+  "version": "1.0.0",
+  "description": "A simple Case submission Portal with a Node based REST API backed that lets you perfrom CRUD Operations",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiranbandi/case-submission-portal.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "kiranbandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiranbandi/case-submission-portal/issues"
+  },
+  "homepage": "https://github.com/kiranbandi/case-submission-portal#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1"
+  }
+}
