@@ -12,6 +12,16 @@ There is no DB where records are stored ,instead data is simply kept in a json f
 ####The application should be live [here](http://localhost:8080)
 
 
+### Work in Progress 
+
+* Replace TinyMCE with Quill.js a light alternative
+* Replace Jquery with Sizzle or Zepto 
+* Remove Bootstrap and Use custom styling 
+* Remove global variables and improve code quality 
+* Create a seperate branch where there is no dependancy on backend service and records are held in local storage , host this on gh-pages
+* A live toggle button should be available for user to switch between backend service or choose local storage
+
+
 
 
 
